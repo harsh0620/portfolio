@@ -72,7 +72,7 @@ function Projects() {
             {projectsData.length > 4 && (
               <div className="projects--viewAll">
                 <a
-                  href="https://github.com/harsh0620?tab=repositories"
+                  href="https://github.com/harsh0620"
                   target="__blank"
                   style={{ textDecoration: "none" }}
                 >
